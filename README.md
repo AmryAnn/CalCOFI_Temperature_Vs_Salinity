@@ -1,8 +1,16 @@
 # CalCOFI_Temperature_Vs_Salinity
- Simple Linear Regression Model
- 
+
  Data From: https://www.kaggle.com/sohier/calcofi
+			Using bottle.csv which contains both temperature and salinity data.
  
- Supporting Links: 
- https://new.data.calcofi.org/index.php/database/calcofi-database/bottle-field-descriptions
- https://new.data.calcofi.org/index.php/database/calcofi-database/cast-table-column-descriptions
+			Supporting Links: 
+			https://new.data.calcofi.org/index.php/database/calcofi-database/bottle-field-descriptions
+ 
+QUESTIONS
+Is there a relationship between water salinity and temperature?
+Can you predict the temperature based on salinity?
+
+
+Linear Regression Analysis
+ 
+1. Simple Linear Regression using linear equation
