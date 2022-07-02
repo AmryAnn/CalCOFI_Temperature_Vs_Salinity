@@ -14,5 +14,6 @@ Can you predict the temperature based on salinity?
 Linear Regression Analysis
  
 1. Simple Linear Regression using linear equation
-   * extract csv file from bottle and keep it in the same directory as the jupyter notebook or python script.
+   * extract csv file from bottle and keep it in the same directory as the jupyter notebook file:
+     - Temperature_and_Salinity_Linear_Regression_Analysis.ipynb
 
