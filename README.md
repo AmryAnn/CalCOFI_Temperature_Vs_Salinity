@@ -7,7 +7,7 @@
 		https://new.data.calcofi.org/index.php/database/calcofi-database/bottle-field-descriptions
  
 # QUESTIONS
-Is there a relationship between water salinity and temperature?
+Is there a linear relationship between water salinity and temperature?
 Can you predict the temperature based on salinity?
 
 
