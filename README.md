@@ -3,10 +3,10 @@
  Data From: https://www.kaggle.com/sohier/calcofi
 			Using bottle.csv which contains both temperature and salinity data.
  
-			Supporting Links: 
-			https://new.data.calcofi.org/index.php/database/calcofi-database/bottle-field-descriptions
+ Supporting Links: 
+		https://new.data.calcofi.org/index.php/database/calcofi-database/bottle-field-descriptions
  
-QUESTIONS
+# QUESTIONS
 Is there a relationship between water salinity and temperature?
 Can you predict the temperature based on salinity?
 
@@ -14,4 +14,4 @@ Can you predict the temperature based on salinity?
 Linear Regression Analysis
  
 1. Simple Linear Regression using linear equation
-	extract csv file from bottle and keep it in the same directory as the jupyter notebook or python script.
+   * extract csv file from bottle and keep it in the same directory as the jupyter notebook or python script.
