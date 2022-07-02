@@ -4,8 +4,7 @@ Created on Mon Jan 10 16:30:40 2022
 
 @author: aarid
 
-Is there a relationship between water salinity and temperature?
-Can you predict the temperature based on salinity?
+
 """
 
 
@@ -19,7 +18,7 @@ from sklearn import linear_model
 """
 Load data from csv file and create a dataframe with only temperature and salinity columns
 """
-df = pd.read_csv('../bottle.csv')
+df = pd.read_csv('bottle.csv')
 
 #print(df.head())
 
